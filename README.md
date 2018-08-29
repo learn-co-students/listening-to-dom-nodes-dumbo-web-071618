@@ -6,7 +6,7 @@
 2. Trigger event listeners on DOM nodes
 3. Explain the difference between bubbling and capturing events
 
-If you are using the Learn IDE available in your browser, you will automatically clone down the files you need when you click 'Open IDE', but in order to view index.html, you will need to use httpserver to serve the HTML page temporarily. In the terminal, type httpserver and press enter. You will see that Your server is running at ... followed by a string of numbers and dots. This string is a temporary IP address that is hosting your index.html file. Copy this string of numbers, open a new tab and past the string in to the URL bar.
+If you are using the Learn IDE available in your browser, you will automatically clone down the files you need when you click 'Open IDE', but in order to view index.html, you will need to use httpserver to serve the HTML page temporarily. In the terminal, type httpserver and press enter. You will see that Your server is running at ... followed by a string of numbers and dots. This string is a temporary IP address that is hosting your index.html file. Copy this string of numbers, open a new tab and paste the string in to the URL bar.
 
 ## Say what?
 
